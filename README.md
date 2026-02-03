@@ -1,2 +1,4 @@
 # equity-discounting-and-dividend-curves-sofr-
-Build a SOFR-discounted equity framework by bootstrapping and extrapolating discount factors, extracting option-implied dividends, and constructing a stable dividend discount curve for pricing applications.
+1. Build a SOFR-discounted equity framework by bootstrapping and extrapolating discount factors
+2. Extracting option-implied dividends
+3. Constructing a stable dividend discount curve for pricing applications.
